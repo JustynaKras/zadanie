@@ -29,6 +29,7 @@ namespace Playground
 
 
         //super z Was chłopaki <3 
+        // tak że tak :) 
 
         private void Save_Click(object sender, EventArgs e)
         {
