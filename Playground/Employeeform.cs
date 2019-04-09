@@ -27,10 +27,18 @@ namespace Playground
 
         }
 
+
+        //super z Was chłopaki <3 
+
         private void Save_Click(object sender, EventArgs e)
         {
             employeeName = this.nameInput.Text;
             this.header.Text = employeeName;
+        }
+
+        private void Employeeform_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
